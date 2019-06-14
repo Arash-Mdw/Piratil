@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Piratil Game</string>
+
+    <string name="nav_activity_main">MainActivity</string>
+
+    <string name="nav_mapicon">الماس یاب</string>
+
+    <string name="nav_diamond">مسابفه</string>
+
+    <string name="nav_profile">پروفایل</string>
+
+    <string name="txt_about_piratil">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصدگذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</string>
+
+    <string name="img_dimond">Dimond</string>
+
+    <string name="alert_dialog_bg">alert_dialog_background</string>
+
+    <string name="card_number">شماره کارت</string>
+
+    <string name="card_name">به نام</string>
+
+    <string name="shaba_card_number">شماره شبا</string>
+
+    <string name="btn_ok">تایید</string>
+
+    <string name="bg_box">background</string>
+
+    <string name="txt_dimond_count">تعداد الماس</string>
+
+    <string name="dimond_price">قیمت معادل الماس شما</string>
+
+    <string name="txt_request_payment">درخواست پرداخت</string>
+
+    <string name="img_piratil_character">piratil character</string>
+
+    <string name="co_star_image">star image</string>
+
+    <string name="co_dimond_count">Dimond count</string>
+
+    <string name="text_button_roles">قوانین</string>
+
+    <string name="text_button_checkout">تسویه حساب</string>
+
+    <string name="text_btn_transactions">تراکنش ها</string>
+
+    <string name="text_button_exit">خروج</string>
+
+    <string name="text_name_dimon_store">امیر جهانگیری</string>
+
+    <string name="text_dimond_store_count">۳۰ الماس</string>
+
+    <string name="text_dimond_count__store_name">۳۰ الماس رستوران تیارا</string>
+
+    <string name="text_add_info">اطلاعات خود را وارد کنید</string>
+
+    <string name="text_name_and_family">نام و نام خانوادگی</string>
+
+    <string name="text_radio_button_men">آقا</string>
+
+    <string name="radiobutton_woman">خانم</string>
+
+    <string name="textbutton_submit_information">ثبت اطلاعات</string>
+
+    <string name="text_enter_code_tip">کد ارسال شده را وارد کنید</string>
+
+    <string name="text_edt_code">کد</string>
+
+    <string name="code_registration">ثبت کد</string>
+
+    <string name="help_text_login">هم اکنون وارد شوید</string>
+
+    <string name="text_phone_number">شماره تلفن</string>
+
+    <string name="text_button_login">ورود</string>
+
+    <string name="text_edt_search">جستجو...</string>
+
+    <string name="co_ic_search">search icon</string>
+
+    <string name="text_remaining_dimonds_count">تاب : ۲۰</string>
+
+    <string name="text_saled_dimonds_count">تاف : ۱۰۰</string>
+
+    <string name="text_coffee_shop_name">کافی شاپ لوکو</string>
+
+    <string name="text_address">پاداد شهر خیابان سیزدهم غربی پلاک ۷ واحد ۷ مجمتمع نگار</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="text_winner_diomond_count">شما برنده ۴۰۰ الماس</string>
+
+    <string name="text_winner_cash_amount"> معادل ۴،۰۰۰،۰۰۰ تومان شدید !!! </string>
+
+    <string name="text_winner_title">تبریک</string>
+
+    <string name="text_level">مرحله سوم</string>
+
+    <string name="text_level_content">برید خونه ممد بیا با باباش سلام کنید ازش یه کاغذ بگیرید و کد اون کاغذ را وارد کنید.</string>
+
+    <string name="text_send_answer">ورود اطلاعات</string>
+
+    <string name="text_start_race">شروع</string>
+
+    <string name="text_my_dimond_count">۳۰</string>
+
+    <string name="text_finish">پایان</string>
+
+    <string name="MarketerLogin">ورود کارشناس فروش</string>
+
+    <string name="BusinessManLogin">ورود صاحب کسب و کار</string>
+
+    <string name="GamerLogin">ورود بازیکن</string>
+
+    <string name="restaurant">map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="race_fragmnet">Race Fragment</string>
+
+    <string name="text_dimond_finder">الماس یاب</string>
+
+    <string name="text_race">مسابقه</string>
+
+    <string name="text_profile">پروفایل</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_dimond_count">تعداد الماس</string>
+
+    <string name="text_level_content1">برید کیف کوک و بارکد مخفی شده رو پیدا کرده و اسکن کنید</string>
+
+    <string name="text_congratulation">تبریک</string>
+
+    <string name="text_reagent_phone_numbe">شماره همراه معرف</string>
+
+    <string name="text_resend_code">ارسال مجدد کد</string>
+
+    <string name="text_counter">00:00</string>
+
+    <string name="weekly_challange">چالش هفتگی</string>
+
+    <string name="title_activity_bottom_navigation">bottom_navigation</string>
+
+    <string name="title_home">Home</string>
+
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="title_notifications">Notifications</string>
+</resources>

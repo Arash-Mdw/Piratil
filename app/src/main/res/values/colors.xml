@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blueLight">#B382DB</color>
+
+    <color name="blueDark">#5e49D7</color>
+
+    <color name="edit_text_color">#3525ae</color>
+
+    <color name="border_color">#979797</color>
+
+    <color name="solid_color">#D8D8D8</color>
+
+    <color name="button_bg_color">#3525AE</color>
+
+    <color name="search_active">#000000</color>
+
+    <color name="search_inactive">#ffffff</color>
+
+    <color name="red_bg_light">#ffebee</color>
+
+    <color name="colorPrimaryLight">#84FF19</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorDivider">#2FE897</color>
+
+    <color name="colorBorder">#a7a4a4</color>
+
+    <color name="colorExtra">#FFFAC1</color>
+
+    <color name="color_state_list">#1f3f8f</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="bgToolbar">#F44336</color>
+
+    <color name="text_color_winner">#C46CD7</color>
+
+    <color name="link_color_enable">#0000EE</color>
+
+    <color name="link_color_disable">#800000EE</color>
+
+    <color name="yellow">#FFB600</color>
+
+    <color name="red">#DF1D59</color>
+</resources>

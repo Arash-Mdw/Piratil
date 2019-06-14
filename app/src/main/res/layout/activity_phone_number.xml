@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+ android:orientation="vertical"
+    android:background="@drawable/back_g"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="arshmdw.piratil.PhoneNumber">
+
+
+
+
+    <RelativeLayout
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/header"
+        android:layout_weight="1.2">
+
+    <ImageView
+        android:layout_height="120dp"
+        android:layout_width="120dp"
+        android:src="@drawable/logo"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
+
+
+    <LinearLayout
+        android:background="@drawable/back_img"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp">
+
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@drawable/back_from"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+    <ImageView
+        android:layout_height="100dp"
+        android:layout_width="100dp"
+        android:src="@drawable/diamond_per"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="20dp"
+        android:text="هم اکنون وارد شوید"
+        android:textAlignment="center"
+        android:textColor="@color/blueDark"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        style="@style/editText"
+        android:textColorHint="@color/blueDark"
+        android:id="@+id/phoneNumber"
+        android:hint="شماره تلفن"
+        android:inputType="phone"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="ورود"
+        style="@style/btn"
+        android:onClick="PhoneNumber"/>
+
+</LinearLayout>
+</LinearLayout>
+</LinearLayout>
