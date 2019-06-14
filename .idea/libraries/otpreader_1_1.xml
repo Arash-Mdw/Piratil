@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="otpreader-1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c7ca7f05cdf6026596e414759e70aacf5ab50e3b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c7ca7f05cdf6026596e414759e70aacf5ab50e3b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/swarajsaaj/otpreader/1.1/51518f056a4a984ffb25cc757396d1fa2dc78d3f/otpreader-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
